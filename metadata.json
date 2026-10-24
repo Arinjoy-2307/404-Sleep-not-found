@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix NDMA Disaster Information Fusion Portal",
+  "description": "Multi-source disaster information fusion engine with credibility tiers, provenance tracking, and time-decay reliability filtering inspired by NDMA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
